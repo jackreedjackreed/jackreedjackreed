@@ -1,6 +1,6 @@
-## Hi, I'm Jack
+## Hi there, I'm Jack
 
--  I just graduated college in the Covid Era with BAs in Government and Environmental Studies--and now I'm learning to code!
+-  I graduated during the Covid Era with BAs in Government and Environmental Studies--and now I'm learning to code!
 -  Currently learning web development at the Columbia University Engineering Coding Bootcamp.
 -  Shoot me an email at: ``w.jack.reed@mgmail.com``.
 
