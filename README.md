@@ -3,7 +3,7 @@
 -  I graduated with BAs in Government and in Environmental Studies--now I'm learning to code!
 -  Received my Full Stack Web Developer Certification from Columbia University Engineering's Coding Bootcamp.
 -  Focusing on UI design rooted in approachable and playful design methodology.
--  Shoot me an email at: ``w.jack.reed@mgmail.com``.
+-  Shoot me an email at: ``w.jack.reed@gmail.com``.
 
 ### Skills:
 
